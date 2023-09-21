@@ -6,6 +6,7 @@ Bu Python kodu, Film, Kullanici, ve TeslaModelS sınıflarını içerir. Bu sın
 
 film_adi, yil, ve tur adında üç özellik (property) içerir.
 __init__ metodu, bir film nesnesini başlatır ve film adı, yıl, ve tür bilgilerini alır.
+
 2) **Kullanici Sınıfı**:
 
 kullanici_adi, izlenen_filmler, ve onerilen_filmler adında üç özellik içerir.
