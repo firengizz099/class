@@ -14,6 +14,7 @@ film_izle metodu, bir film nesnesini alır ve bu filmi kullanıcının izlediği
 film_oner metodu, başka bir kullanıcıya bir film nesnesini önerir ve öneriyi diğer kullanıcının önerilen filmler listesine ekler.
 
 2) **TeslaModelS Sınıfı**:
+   
 pil_kapasitesi, sarj_durumu, hiz, muzik, isiklar, ve sofor_uyku_durumu adında altı özellik içerir.
 __init__ metodu, bir Tesla Model S nesnesini başlatır ve pil kapasitesi, şarj durumu, hız ve diğer bazı özellikleri alır.
 muzik_ac metodu, arabanın müziğini açar, ancak şarj durumu belirli bir seviyenin altındaysa müzik açılmaz.
